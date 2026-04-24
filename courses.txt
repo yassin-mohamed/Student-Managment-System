@@ -1,0 +1,2 @@
+CSE141|Intro to Programming|3
+PRO101|Programming fundmentals|3
